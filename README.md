@@ -9,23 +9,37 @@
 
    In the Project , I have focused on the following Objectives with theirs KPIs ; 
    
-   • Customer Overview     ->  New User Percent By Country  
-                           ->  PageViews Stats By Continent
-                               
-   • Channel Acquisition   ->  Customer Engagement  
-                           ->  Total Revenue By Webpages  
-                           ->  Total Revenue By Channels
-                               
-   • Landing Pages         ->  Landing Page Bounce Rates  
-                           ->  Landing Page Exit Rates  
-                           ->  Device Category Bounce Rates
+   ##### • Customer Overview  
+   
+   New User Percent By Country  
+   PageViews Stats By Continent
+                         
+                         
+   ##### • Channel Acquisition  
+   
+   Customer Engagement  
+   Total Revenue By Webpages  
+   Total Revenue By Channels
+                         
+                         
+   ##### • Landing Pages 
+   
+   Landing Page Bounce Rates  
+   Landing Page Exit Rates  
+   Device Category Bounce Rates
                            
-   • Product Performance   ->  Total Revenue By Category  
-                           ->  Customer Shopping Behaviour
                            
-   • Basic Metrics         ->  Bounce Rates of Browsers  
-                           ->  Total Revenue By Countries  
-                           ->  Total Transactions of Browsers 
+   ##### • Product Performance 
+   
+   Total Revenue By Category  
+   Customer Shopping Behaviour
+                          
+                          
+   ##### • Basic Metrics  
+   
+   Bounce Rates of Browsers  
+   Total Revenue By Countries  
+   Total Transactions of Browsers 
 
 </br>
 
