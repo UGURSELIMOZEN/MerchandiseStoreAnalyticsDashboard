@@ -20,9 +20,9 @@ st.write("""
 
 
 credentials = service_account.Credentials.from_service_account_file(
-'sinuous-city-322710-b3596bea6131.json')
+'your_google_cloud_service_account_json_file_name.json')
 
-project_id = 'sinuous-city-322710'
+project_id = 'your_google_cloud_project_name'
 client = bigquery.Client(credentials= credentials,project=project_id)
 
 
