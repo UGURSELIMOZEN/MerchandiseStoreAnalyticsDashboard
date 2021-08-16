@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sinuous-city-322710",
+  "private_key_id": "b3596bea6131d59d5ddb289119249bdaa193ac6a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCN1599Ft2S6A+8\ntijpKnRMwxEgwEJqEPlx2/P1Vhzr+iJeVyJ7VIvJvntWtTTOoBbx3BEU8xVA91Dv\nH7k7jsZPmMQ60QNjP2D28tC736Pge+ytlgluDi7AOpvBwVgrrH48YCbQl9RkTrvm\nZozwE+hcidrD+iIsaWQ5MaQXi9pYUj19EaYLnBCh89aMaE5k22qOwTZNPrkggDnn\n+yrSBHkkGDqj2XG9i8mBOG1yXbs5tD4TC/16MM4l3/M5W+njlKg/zRRZCgLMqhoK\nF6+rMusoXdqmLQIDxet5j/LP/O1P6DHbuvcgzpzVO+BtD6ppb1ahIxZKdrfo6r5/\nk6sZbfx5AgMBAAECggEAFMRThlHL31+DjP+8jfrDFp60Chqr/px9RlAg7962PaRx\n1g8lg29gR17Qmbl5FvbLCokg+nNmkrbto2epITuo9EFrxX1m5L0u71OjVPEMLL3o\nFo1yKaoA6psKGpGPXQGUZTbh/UX6zjQq1YkBLICK/iAe0UpKKOdwnuESOHJSOv5D\nqHzkGO1joAzXt/Q3U8bOZjleqRfnPONtxaVmik4KJcJnZu+kbjjQOhnoSInSjHWx\ncODLMHHiricUp+Pkdm8M/p2bmtgCpxeRlQPXfr7dwQq/tEFaF+nHTzjWYy9dOz2d\nUQ5tpZJ6evKKsyvmaMzQv38l/+707JEJlW937qB7ewKBgQDA5SXRQemIeCRVP8B1\n5Y1DDd4XhzunXE5EBDbdlpeNXojuLiqcDLnpMPL4RUJvCTigCYtKHGMRzUAk4xLY\nTK8qXunLwDrVcbTS2RUZ6vdZTXYkUBKxllUTRXbN0aMEOXiht23c+rLl26PVzn5u\nvJlBQ5Zly0TUjc0yTssTJp9UFwKBgQC8PtSikUPQAWwVWkzAmLgOZ9PQOCgZ95lM\nEaJZyd0rfTlksaZU76iF/884E2XEsiRHOiE97XcRCEG++FfwGgY66C/BloeN9hH/\nv7Fe10dzh/qWF+Rm9MrYCx0ZYNM/1vIaUWNyHPZo/bO6H9IifiBy0Ub6mB2A/X74\nbrTpX6M97wKBgCb+7EtGmPCm4Sl+zujGtG0m44w8IZou9f+YHoNji1XgE6ybFrAf\nfoIfDC+WyNxrr8/ivg8IeBrENMCAS3IA5rSZJYi0XvCBoT2y9yobL1AVcdnbejv+\nmUphE6h+Rgd3muSOkZ5H7Fy9r3xs13CJni3sfP4tPsf9tssB1NoVR8aXAoGBAJtk\nNjy4M0U6V1FNCDyYFJ93n8arBJdi5z1+9QivdQ4YQc9YQlisuO1cXF8KzCBReVb+\nqkAnjPkXWsZc1KKTqP7pebqRGvbZ4MPAJpeGmCnLXtSVhmpiuisbCXtQjTGOqq2E\n79VcCSBkBP+oktr8SKbfEHt+JCS9nRlQsbBPzT4rAoGAQaaP+P8RlG6FLj+8JoXS\nYgfbril2HrjeLNJ2x0Ch5qSGmhAz2FDGvbhVr1DkKH7UCnV9fWppp1Vpx4gU7B44\nZnyeJPIWImVKYqrtc3TvnFco2OA+CvmyrrLR92w8drqnuQGv7Y8gLPP+w2ehyRyP\nZlD6J7Mmp1J5f4SBYzE95+o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-analytics-sample-app@sinuous-city-322710.iam.gserviceaccount.com",
+  "client_id": "107393264185051975537",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-analytics-sample-app%40sinuous-city-322710.iam.gserviceaccount.com"
+}
