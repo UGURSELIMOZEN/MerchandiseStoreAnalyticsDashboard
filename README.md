@@ -55,7 +55,7 @@
 
 </br>
 <p>
-<a href="https://lgtm.com/projects/g/UGURSELIMOZEN/BrowsersGoogleTrendDashboard/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/UGURSELIMOZEN/BrowsersGoogleTrendDashboard.svg?logo=lgtm&logoWidth=18"/></a>
+<a href="https://lgtm.com/projects/g/UGURSELIMOZEN/MerchandiseStoreAnalyticsDashboard/context:python"><img alt="Language grade: Python" src="https://img.shields.io/lgtm/grade/python/g/UGURSELIMOZEN/MerchandiseStoreAnalyticsDashboard.svg?logo=lgtm&logoWidth=18"/></a>
 <img alt="Streamlit" src="https://img.shields.io/badge/-Made with Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </a>
 <a>
