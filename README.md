@@ -44,7 +44,7 @@
 </br>
 
 #### • Project Objective
-   Defining ,analyzing and visualization of KPI's for BigQuery data which is importing from Google Cloud Public Data , Google Merchandise Store.
+   Defining ,analyzing and visualization of KPI's for BigQuery data which is imported from Google Cloud Public Data , Google Merchandise Store.
 
 </br>
 
